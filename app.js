@@ -9,6 +9,15 @@ const passwordBoard = [
   'Good things come to those who wait.',
   'If you can’t beat them, join them',
   'It’s no use crying over spilt milk',
+  'Keep your feet on solid ground',
+  'Life is like riding a bicycle',
+  'Life is like a box of chocolates',
+  'Do not add fire to the fuel',
+  'Do not let fear hold you back',
+  'Do not let your dreams be dreams',
+  'Do not let your passions control you',
+  'Do not let your resentment control you',
+  'Do not let your stubbornness control you',
 ];
 const passwordDiv = document.querySelector('#board');
 const imgDiv = document.querySelector('#hangin-dude');
