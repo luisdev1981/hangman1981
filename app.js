@@ -20,7 +20,7 @@ const passwordBoard = [
   'Do not let your stubbornness control you',
   'Do not let me down',
   'I will be back',
-  'i have an offer that you can not refuse',
+  'I have an offer that you can not refuse',
 ];
 const passwordDiv = document.querySelector('#board');
 const imgDiv = document.querySelector('#hangin-dude');
